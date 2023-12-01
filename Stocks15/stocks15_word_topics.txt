@@ -1,0 +1,15 @@
+0	0.33333	week f),platinum 
+1	0.33333	f),palladium 
+2	0.33333	years f),orange volitility composite 
+3	0.33333	f),natural 
+4	0.33333	index f),copper oil-brent f),heating f),soybeans hsi),cocoa 
+5	0.33333	f),wheat f),live gdaxi),ftse gspc),nyse 
+6	0.33333	juice f),coffee 
+7	0.33333	f),crude f),ethanol cattle ftse),hang nya),russell 
+8	0.33333	f),sugar f),cotton 
+9	0.33333	yield tyx bill f),corn 
+10	0.33333	irx),treasury f),silver oil-wti oil ixic),s&p 
+11	0.33333	vix),dax dji),nasdaq 
+12	0.33333	seng 
+13	0.33333	fvx),treasury f),gold rut),cboe 
+14	0.33333	tnx),treasury f),treasury gas 

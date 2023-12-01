@@ -1,0 +1,25 @@
+0	0.2	man,imn futuna,wlf 
+1	0.2	islands,tca caicos 
+2	0.2	regions excluding china 
+3	0.2	countries lldc 
+4	0.2	islands,vir virgin 
+5	0.2	countries lldc 
+6	0.2	the and grenadines,vct 
+7	0.2	and principe,stp republic,caf 
+8	0.2	and miquelon,spm 
+9	0.2	islands,mnp congo,cod emirates,are futuna,wlf principe,stp 
+10	0.2	saba,bes eustatius and 
+11	0.2	emirates,are tobago,tto all 
+12	0.2	guinea,png islands,vgb congo,cod 
+13	0.2	and nevis,kna 
+14	0.2	barbuda,atg regions birth expectancy 
+15	0.2	sids states developing sex 
+16	0.2	part),sxm dutch futuna,wlf republic,caf 
+17	0.2	regions congo,cod wales nevis,kna 
+18	0.2	developed least regions excluding countries 
+19	0.2	republic,caf futuna,wlf guinea,png 
+20	0.2	wales age 
+21	0.2	herzegovina,bih islands,vgb tobago,tto 
+22	0.2	available group 
+23	0.2	part),maf french 
+24	0.2	caribbean the and 
